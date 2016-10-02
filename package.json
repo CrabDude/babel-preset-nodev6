@@ -1,0 +1,20 @@
+{
+  "name": "babel-preset-nodev6",
+  "version": "1.0.0",
+  "description": "Babel preset for the latest ECMAScript for node v6",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/CrabDude/babel-preset-nodev6.git"
+  },
+  "author": "Adam Crabtree",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CrabDude/babel-preset-nodev6/issues"
+  },
+  "homepage": "https://github.com/CrabDude/babel-preset-nodev6#readme",
+  "dependencies": {
+    "babel-plugin-transform-strict-mode": "^6.11.3",
+    "babel-preset-eslatest-node6": "^1.0.1"
+  }
+}
